@@ -1,0 +1,8 @@
+:root{
+    --primary-color: blue; 
+    --secundary-color: #fff;
+    --text-color-dark: #000;
+    --text-color-light:#fff;
+    --icon-color: #f3f3f3;
+    --icon-backgroud-color: rgb(0, 136, 214);
+}
