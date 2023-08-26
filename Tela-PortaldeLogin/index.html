@@ -1,14 +1,18 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://kit.fontawesome.com/a49f6335e5.js" crossorigin="anonymous"></script>
     <script type="text/javascript" src="./js/script.js" defer></script>
+    <script src="https://cdn.jsdelivr.net/npm/pace-js@latest/pace.min.js"></script>
+    <link rel="stylesheet" href="./css/minimal.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;600;700;800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;600;700;800&display=swap"
+        rel="stylesheet">
     <link rel="stylesheet" href="./css/reset.css">
     <link rel="stylesheet" href="./css/colors.css">
     <link rel="stylesheet" href="./css/main.css">
@@ -22,11 +26,12 @@
     <link rel="stylesheet" href="./css/overlay.css">
     <title>Login - Portal</title>
 </head>
+
 <body>
     <main>
         <div class="login-container" id="login-container">
             <div class="form-container">
-                <form class="form form-login">
+                <form class="form form-login " id="login-form">
                     <h2 class="form-title">Entrar Com</h2>
                     <div class="form-social">
                         <a href="#" class="social-icon">
@@ -41,11 +46,13 @@
                     </div>
                     <p class="form-text">ou utilize sua conta</p>
                     <div class="form-input-container">
-                        <input type="email" class="form-input" placeholder="E-mail">
-                        <input type="password" class="form-input" placeholder="Senha">
+                        <input type="email" class="form-input" placeholder="E-mail" />
+                    </div>
+                    <div class="form-input-container">
+                        <input type="password" class="form-input" placeholder="Senha" />
                     </div>
                     <a href="#" class="form-link">Esqueceu a senha?</a>
-                    <button onclick="logar()" class="form-button">Login</button>
+                    <button onclick="logar()" class="form-button" type="submit">Login</button>
                     <p class="mobile-text">Não tem conta?
                         <a href="#" id="open-register-mobile">Registre-se</a>
                     </p>
@@ -56,7 +63,8 @@
                         <a href="#" class="social-icon">
                             <i class="fa-brands fa-facebook-f"></i>
                         </a>
-                        <a href="#" class="social-icon">
+                        <a href="https://accounts.google.com/v3/signin/identifier?dsh=S-419063050%3A1682657000383039&continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=Af_xneEAg-YgkInu6H1pyDywBNEM1DixDUluqBs1x7pQP3_7ucIH0-NGbcuWx2Aop9Nz9Z2ugm6qgg&osid=1&passive=1209600&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+                            class="social-icon">
                             <i class="fa-brands fa-google"></i>
                         </a>
                         <a href="#" class="social-icon">
@@ -66,11 +74,15 @@
                     <p class="form-text">ou cadastre seu e-mail</p>
                     <div class="form-input-container">
                         <input type="text" class="form-input" placeholder="Nome">
+                    </div>
+                    <div class="form-input-container">
                         <input type="email" class="form-input" placeholder="E-mail">
+                    </div>
+                    <div class="form-input-container">
                         <input type="password" class="form-input" placeholder="Senha">
                     </div>
                     <a href="#" class="form-link">Já possui uma conta?</a>
-                    <button onclick="cadastro()" class="form-button">Cadastrar</button>
+                    <button onclick="cadastro()" class="form-button" id="cadastro">Cadastrar</button>
                     <p class="mobile-text">Já tem uma conta?
                         <a href="#" id="open-login-mobile">Login</a>
                     </p>
@@ -91,4 +103,5 @@
         </div>
     </main>
 </body>
+
 </html>
