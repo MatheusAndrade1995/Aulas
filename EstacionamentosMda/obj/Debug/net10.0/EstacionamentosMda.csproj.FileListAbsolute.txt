@@ -1,0 +1,14 @@
+C:\Users\mandrade\Documents\EstacionamentosMda\bin\Debug\net10.0\EstacionamentosMda.exe
+C:\Users\mandrade\Documents\EstacionamentosMda\bin\Debug\net10.0\EstacionamentosMda.deps.json
+C:\Users\mandrade\Documents\EstacionamentosMda\bin\Debug\net10.0\EstacionamentosMda.runtimeconfig.json
+C:\Users\mandrade\Documents\EstacionamentosMda\bin\Debug\net10.0\EstacionamentosMda.dll
+C:\Users\mandrade\Documents\EstacionamentosMda\bin\Debug\net10.0\EstacionamentosMda.pdb
+C:\Users\mandrade\Documents\EstacionamentosMda\obj\Debug\net10.0\EstacionamentosMda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mandrade\Documents\EstacionamentosMda\obj\Debug\net10.0\EstacionamentosMda.AssemblyInfoInputs.cache
+C:\Users\mandrade\Documents\EstacionamentosMda\obj\Debug\net10.0\EstacionamentosMda.AssemblyInfo.cs
+C:\Users\mandrade\Documents\EstacionamentosMda\obj\Debug\net10.0\EstacionamentosMda.csproj.CoreCompileInputs.cache
+C:\Users\mandrade\Documents\EstacionamentosMda\obj\Debug\net10.0\EstacionamentosMda.dll
+C:\Users\mandrade\Documents\EstacionamentosMda\obj\Debug\net10.0\refint\EstacionamentosMda.dll
+C:\Users\mandrade\Documents\EstacionamentosMda\obj\Debug\net10.0\EstacionamentosMda.pdb
+C:\Users\mandrade\Documents\EstacionamentosMda\obj\Debug\net10.0\EstacionamentosMda.genruntimeconfig.cache
+C:\Users\mandrade\Documents\EstacionamentosMda\obj\Debug\net10.0\ref\EstacionamentosMda.dll
