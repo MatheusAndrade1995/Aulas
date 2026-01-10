@@ -1,0 +1,14 @@
+C:\Users\mandrade\Documents\HotelariaMda\bin\Debug\net10.0\HotelariaMda.exe
+C:\Users\mandrade\Documents\HotelariaMda\bin\Debug\net10.0\HotelariaMda.deps.json
+C:\Users\mandrade\Documents\HotelariaMda\bin\Debug\net10.0\HotelariaMda.runtimeconfig.json
+C:\Users\mandrade\Documents\HotelariaMda\bin\Debug\net10.0\HotelariaMda.dll
+C:\Users\mandrade\Documents\HotelariaMda\bin\Debug\net10.0\HotelariaMda.pdb
+C:\Users\mandrade\Documents\HotelariaMda\obj\Debug\net10.0\HotelariaMda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mandrade\Documents\HotelariaMda\obj\Debug\net10.0\HotelariaMda.AssemblyInfoInputs.cache
+C:\Users\mandrade\Documents\HotelariaMda\obj\Debug\net10.0\HotelariaMda.AssemblyInfo.cs
+C:\Users\mandrade\Documents\HotelariaMda\obj\Debug\net10.0\HotelariaMda.csproj.CoreCompileInputs.cache
+C:\Users\mandrade\Documents\HotelariaMda\obj\Debug\net10.0\HotelariaMda.dll
+C:\Users\mandrade\Documents\HotelariaMda\obj\Debug\net10.0\refint\HotelariaMda.dll
+C:\Users\mandrade\Documents\HotelariaMda\obj\Debug\net10.0\HotelariaMda.pdb
+C:\Users\mandrade\Documents\HotelariaMda\obj\Debug\net10.0\HotelariaMda.genruntimeconfig.cache
+C:\Users\mandrade\Documents\HotelariaMda\obj\Debug\net10.0\ref\HotelariaMda.dll
