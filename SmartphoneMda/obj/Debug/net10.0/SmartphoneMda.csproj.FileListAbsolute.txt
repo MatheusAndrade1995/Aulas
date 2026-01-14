@@ -1,0 +1,14 @@
+C:\Users\mandrade\Documents\SmartphoneMda\bin\Debug\net10.0\SmartphoneMda.exe
+C:\Users\mandrade\Documents\SmartphoneMda\bin\Debug\net10.0\SmartphoneMda.deps.json
+C:\Users\mandrade\Documents\SmartphoneMda\bin\Debug\net10.0\SmartphoneMda.runtimeconfig.json
+C:\Users\mandrade\Documents\SmartphoneMda\bin\Debug\net10.0\SmartphoneMda.dll
+C:\Users\mandrade\Documents\SmartphoneMda\bin\Debug\net10.0\SmartphoneMda.pdb
+C:\Users\mandrade\Documents\SmartphoneMda\obj\Debug\net10.0\SmartphoneMda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mandrade\Documents\SmartphoneMda\obj\Debug\net10.0\SmartphoneMda.AssemblyInfoInputs.cache
+C:\Users\mandrade\Documents\SmartphoneMda\obj\Debug\net10.0\SmartphoneMda.AssemblyInfo.cs
+C:\Users\mandrade\Documents\SmartphoneMda\obj\Debug\net10.0\SmartphoneMda.csproj.CoreCompileInputs.cache
+C:\Users\mandrade\Documents\SmartphoneMda\obj\Debug\net10.0\SmartphoneMda.dll
+C:\Users\mandrade\Documents\SmartphoneMda\obj\Debug\net10.0\refint\SmartphoneMda.dll
+C:\Users\mandrade\Documents\SmartphoneMda\obj\Debug\net10.0\SmartphoneMda.pdb
+C:\Users\mandrade\Documents\SmartphoneMda\obj\Debug\net10.0\SmartphoneMda.genruntimeconfig.cache
+C:\Users\mandrade\Documents\SmartphoneMda\obj\Debug\net10.0\ref\SmartphoneMda.dll
